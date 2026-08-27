@@ -1,1 +1,2 @@
 New Feature branch
+Hello from new Feature
