@@ -1,2 +1,4 @@
 scroll direction vertically
 Theme changed
+
+scroll horizontally
